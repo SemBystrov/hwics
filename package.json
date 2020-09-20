@@ -4,7 +4,8 @@
   "description": "Домашние работы по предмету Проектирование ИКС",
   "scripts": {
     "check_adapter": "ts-node adapter.ts",
-    "check_abstract_factory": "ts-node abstractFactory.ts"
+    "check_abstract_factory": "ts-node abstractFactory.ts",
+    "check_factory_method": "ts-node factoryMethod.ts"
   },
   "author": "Быстров Семён",
   "license": "ISC",
