@@ -1,0 +1,15 @@
+{
+  "name": "hwics",
+  "version": "1.0.0",
+  "description": "Домашние работы по предмету Проектирование ИКС",
+  "scripts": {
+    "check_adapter": "ts-node adapter.ts",
+    "check_abstract_factory": "ts-node abstractFactory.ts"
+  },
+  "author": "Быстров Семён",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
